@@ -1,0 +1,16 @@
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\bin\Debug\My-Pdf_okuyucu.exe.config
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\bin\Debug\My-Pdf_okuyucu.exe
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\bin\Debug\My-Pdf_okuyucu.pdb
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.csproj.ResolveComReference.cache
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My_Pdf_okuyucu.Form1.resources
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My_Pdf_okuyucu.Properties.Resources.resources
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.exe
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.pdb
+C:\Users\monster\Desktop\C# Projeler\My-Pdf_okuyucu\My-Pdf_okuyucu\obj\Debug\My-Pdf_okuyucu.csproj.AssemblyReference.cache
